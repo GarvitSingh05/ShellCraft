@@ -1,6 +1,6 @@
-## Bash Scripting Repository :
+## Bash Scripting Repository 🔥 :
 
-#### Project Description : 
+#### Project Description 📓 : 
 
 This Bash Scripting repository contains a small collection of scripts that can be used to automate various tasks. The scripts are well-documented and easy to use, and they can be customized to meet your specific needs.
 
@@ -42,6 +42,6 @@ These scripts can save you time and effort, and they can help you to keep your s
 
 Feel free to suggest any changes or corrections.
 
-**Happy Scripting!**
+**Happy Scripting! ♥️**
 
 **_Garvit Singh_**
