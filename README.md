@@ -1,10 +1,10 @@
-## Bash Scripting Repository 🔥 :
+## Bash Scripting Repository 🔥
 
-#### Project Description 📓 : 
+#### Project Description 📓
 
 This Bash Scripting repository contains a small collection of scripts that can be used to automate various tasks. The scripts are well-documented and easy to use, and they can be customized to meet your specific needs.
 
-The repository includes scripts for:
+The repository includes scripts :
 
 * Compress file or directory into tarball and upload it on google drive, provided you have already set up your gdrive in your linux terminal. 
 
@@ -34,7 +34,7 @@ The repository includes scripts for:
 
 * Send File(s) to your Phone(or other device) using KDE Connect.
 
-* Unlock your Phone(or other device) using KDE Connect
+* Unlock your Phone(or other device) using KDE Connect.
 
 I created these scripts just for fun, as i was learning and experimenting with linux and bash scripting in the fresher year of my college.
 
