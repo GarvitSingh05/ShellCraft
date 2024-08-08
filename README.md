@@ -1,4 +1,4 @@
-## Bash Scripting Repository 🔥
+## ShellCraft - A Bash Scripting Repository 🔥
 
 #### Project Description 📓
 
